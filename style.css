@@ -1,0 +1,29 @@
+body{
+    
+}
+button {
+    display:block;
+    margin:10px auto;
+    border:dotted 2px black;
+}
+
+div{
+    width:30px;
+    height:30px;
+    background-color:#333;
+    margin:5px;
+    float:left;
+    color:white;
+    text-align:center;
+    line-height:30px;
+
+}
+
+.circle{
+    box-sizing:border-box;
+    background-color:white;
+    border-radius:50%;
+    color:black;
+    border:3px solid black;
+    line-height:24px;
+}
